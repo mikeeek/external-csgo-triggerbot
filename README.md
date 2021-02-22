@@ -1,4 +1,4 @@
-# external-csgo-triggerbot
+# External triggerbot for CSGO
 simple triggerbot using read/write processmemory
 
 Holding the set triggerkey shoots automatically while there is an enemy in the crosshair
